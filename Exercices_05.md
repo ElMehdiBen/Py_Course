@@ -19,7 +19,7 @@
 
 1. Declare a function _add_two_numbers_. It takes two parameters and it returns a sum.
 2. Area of a circle is calculated as follows: area = π x r x r. Write a function that calculates _area_of_circle_.
-4. Temperature in °C can be converted to °F using this formula: °F = (°C x 9/5) + 32. Write a function which converts °C to °F, _convert_celsius_to-fahrenheit_.
+4. Temperature in °C can be converted to °F using this formula: °F = (°C x 9/5) + 32. Write a function which converts °C to °F, _convert_celsius_to_fahrenheit_.
 5. Write a function called check_season, it takes a month parameter and returns the season: Autumn, Winter, Spring or Summer.
 6. Write a function called calculate_slope which return the slope of a linear equation
 8. Declare a function named print_list. It takes a list as a parameter and it prints out each element of the list.
@@ -60,7 +60,7 @@ print(sum_all_numbers(100)) # 5050
 ```
 
 14. Declare a function named sum_of_odds. It takes a number parameter and it adds all the odd numbers in that range.
-15. Declare a function named sum_of_even. It takes a number parameter and it adds all the even numbers in that - range.
+15. Declare a function named sum_of_even. It takes a number parameter and it adds all the even numbers in that range.
 
 ### Exercises: Level 2
 
