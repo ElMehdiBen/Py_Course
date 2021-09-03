@@ -64,7 +64,7 @@ print(sum_all_numbers(100)) # 5050
 
 ### Exercises: Level 2
 
-1.  Declare a function named evens_and_odds . It takes a positive integer as parameter and it counts number of evens and odds in the number.
+1.  Declare a function named evens_and_odds . It takes a positive integer as parameter and it counts number of evens and odds in the number range.
 
 ```py
     print(evens_and_odds(100))
