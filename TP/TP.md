@@ -14,9 +14,9 @@
 
 7. In the same class : Create a function that returns the intersection of unique words in two TextProcessing objects
 
-8. Read obama_speech.txt and apply the functions 2 to 6 and then save the results to a new text file
+8. Read the file obama_speech.txt and apply the functions 2 to 6 and then save the results to a new text file
 
-9. Read donald_speech.txt and apply the functions 7 to get its words intersection with obama_speech.txt
+9. Read the file donald_speech.txt and apply the functions 7 to get its words intersection with obama_speech.txt
 
-10. Use the results from 9 and apply function 2 on each of them in both speeches to compare the use of each word by Obama and Donald
+10. Use the results from 9 and apply function 2 on each of word in both speeches to compare the use of words by Obama and Donald
 
