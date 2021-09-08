@@ -17,3 +17,25 @@ Link : https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/o
 8. Filter the data based on two dates
 # Question 9 is to be discussed before we agree on the analysis to be done
 9. Explore the data and make sense of it
+
+
+## COVID Exercise: Pandas
+
+# Cleaning the Dataframe - Exemples de cleaning avec des fonctions a utiliser
+    ## Missing values handling - Examples
+    ## Null, NaN, NA
+    ## UDF - from Null or NAN or NA to 0 if it's a number
+    ### Outliers, 
+# Data Analysis - Utilisation de plusieurs GroupBy pour generer des insights
+    ## Largest new_cases in a month / location
+    ## Largest new_deaths in a month / location
+    ## Largest Ratio in new cases and deaths (population_density)
+    ## Largest number of cases within the whole period
+    ## Largest number of deaths within the whole period
+
+# Adding columns - detecting causality - if there any
+    ## What causes new cases per location (people from a location are smokers)
+    ## icu_patients analysis
+    ## tests analysis
+    ## vaccination - comparing vacc rate in a period / location
+    ## age analysis
