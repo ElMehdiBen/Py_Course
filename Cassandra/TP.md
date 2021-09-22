@@ -19,11 +19,11 @@ Link : https://www.kaggle.com/sveneschlbeck/new-york-city-airport-activity
 
 2. Calculate the sum of departure and arrival delays for each carrier by each year
 
-3. 
-
 ## Back to Python
 
 1. Perform what you see as required data analysis in order to produce a report and talk about the data and your findings
 
   - For example, the carriers having the largest delays
   - The days where all the carriers experience big delays
+  - Are there any Origin or Destination airports that produce large delays
+  - ...
