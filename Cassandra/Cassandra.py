@@ -37,6 +37,8 @@ session.execute("INSERT INTO fortype(id, card) VALUES (1,\
 
 session.execute("INSERT INTO fortype(id, details) VALUES (2, {name : 'product', price : 1350});")
 
+
+
 query = "INSERT INTO data (id, continent, location) VALUES (?, ?, ?)"
 prepared = session.prepare(query)
 
