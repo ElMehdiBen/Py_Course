@@ -13,4 +13,6 @@ Data description is in Data.md
  - Category of road
  - Surface condition
 
- 2. Answer the big question - What elements have the biggest impact on car accidents in France
+2. Propose other elements which can help understand what's causing car accidents
+
+3. Answer the big question - What elements have the biggest impact on car accidents in France
