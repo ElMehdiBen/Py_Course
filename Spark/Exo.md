@@ -15,4 +15,4 @@ Data Source if needed : https://github.com/ElMehdiBen/Py_Course/blob/main/Pandas
 8. Use display graphics to plot the top 10 biggest sum of new cases ordered ASC
 9. Use display graphics to plot the top 10 biggest sum of new deaths ordered DESC [Tip : orderBy(column, ascending=False)]
 10. Using 6 months of data - Display the average of new vaccinations per month per location 
-11. 
+11. Explore Display Graphics available on Databricks
