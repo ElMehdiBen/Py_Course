@@ -13,7 +13,7 @@ Count of transactions where the total amount of transaction was negative
 
 Analyze which product categories are more popular among females vs male customers
 
-Which City code has the maximum customers and what was the percentage of customers from that city ?
+Which City code has the maximum customers ?
 
 Which store type sells the maximum products by value and by quantity ?
 
