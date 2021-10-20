@@ -2,6 +2,11 @@
 
 Data : https://www.kaggle.com/darpan25bajaj/retail-case-study-data
 
+Tables Names : 
+ - customers
+ - transactions
+ - prod_cat
+
 ### Questions
 
 Count of transactions where the total amount of transaction was negative
