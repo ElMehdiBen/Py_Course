@@ -3,7 +3,7 @@ from pymongo import MongoClient
 from json import loads
 
 consumer = KafkaConsumer(
-    'numtest',
+    'messages',
      bootstrap_servers = ['209.188.7.148:9092'],
      auto_offset_reset = 'earliest',
      enable_auto_commit = True,
@@ -13,4 +13,5 @@ consumer = KafkaConsumer(
 
 for message in consumer:
     message = message.value
-    print('{}'.format(message))
+    if message['receiver'] == "Mehdi":
+        print('{}'.format(message))
