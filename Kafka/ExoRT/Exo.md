@@ -27,3 +27,18 @@ Source : https://rapidapi.com/Coinranking/api/coinranking1/
 2. Use the change frequency in your sleep function
 3. Write a producer script that calls the API, gets some of the relevant information and sends them to KAFKA
 4. Write a consumer script that takes the data from Kafka and writes it to elasticsearch
+
+# Writing to Elastic Search Example
+
+    from elasticsearch import Elasticsearch
+    from datetime import datetime
+
+    es = Elasticsearch(["https://elastic:g9tufnez6HKsW74KHxksON5d@my-deployment-51a233.es.eastus2.azure.elastic-cloud.com:9243"])
+
+    doc = {
+        'author': 'kimchy',
+        'text': 'Elasticsearch: cool. bonsai cool.',
+        'timestamp': datetime.now(),
+    }
+    res = es.index(index="test", document=doc)
+    print(res['result'])
