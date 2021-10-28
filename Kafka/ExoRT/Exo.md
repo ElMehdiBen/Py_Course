@@ -1,18 +1,20 @@
 # Real Time API Example
 
-import requests
+Source : https://rapidapi.com/Coinranking/api/coinranking1/
 
-url = "https://coinranking1.p.rapidapi.com/coin/1"
-(OR "https://coinranking1.p.rapidapi.com/coins")
+    import requests
 
-headers = {
-    'x-rapidapi-host': "coinranking1.p.rapidapi.com",
-    'x-rapidapi-key': "f99779c96bmshd8fbf40fea4d618p12a843jsn0ca45c3d0d29"
-    }
+    url = "https://coinranking1.p.rapidapi.com/coin/1"
+    (OR "https://coinranking1.p.rapidapi.com/coins")
 
-response = requests.request("GET", url, headers=headers)
+    headers = {
+        'x-rapidapi-host': "coinranking1.p.rapidapi.com",
+        'x-rapidapi-key': "f99779c96bmshd8fbf40fea4d618p12a843jsn0ca45c3d0d29"
+        }
 
-print(response.text)
+    response = requests.request("GET", url, headers=headers)
+
+    print(response.text)
 
 =======================================================
 
