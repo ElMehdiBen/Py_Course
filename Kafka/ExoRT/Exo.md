@@ -3,7 +3,7 @@
 import requests
 
 url = "https://coinranking1.p.rapidapi.com/coin/1"
-### url = "https://coinranking1.p.rapidapi.com/coins"
+(OR "https://coinranking1.p.rapidapi.com/coins")
 
 headers = {
     'x-rapidapi-host': "coinranking1.p.rapidapi.com",
