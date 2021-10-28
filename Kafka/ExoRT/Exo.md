@@ -22,3 +22,8 @@ Source : https://rapidapi.com/Coinranking/api/coinranking1/
 
 
 # TP - Questions
+
+1. Test the API endpoint to see the change frequency
+2. Use the change frequency in your sleep function
+3. Write a producer script that calls the API, gets some of the relevant information and sends them to KAFKA
+4. Write a consumer script that takes the data from Kafka and writes it to elasticsearch
