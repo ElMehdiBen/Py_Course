@@ -20,6 +20,7 @@ Source : https://rapidapi.com/Coinranking/api/coinranking1/
 
 # TP - Objectives
 
+Les objectifs de l'exercice sont l'experimentation d'un flux de donnees en temps reel, lire d'une API real time, envoyer vers KAFKA en streaming and lire ensuite depuis KAFKA pour mettre sur une base de donnee pour dashboarding.
 
 # TP - Questions
 
