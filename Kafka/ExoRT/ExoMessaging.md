@@ -18,7 +18,7 @@ Link : https://github.com/ElMehdiBen/Py_Course/blob/main/Kafka/ExoRT/Screenshot%
 
 Autre Astuce : earliest vous prend le tout depuis le debut, donc pour reprendre sur votre TOPIC, pensez a le vider / supprimer avec :
 
-  from kafka import KafkaAdminClient
+    from kafka import KafkaAdminClient
 
-  Admin = KafkaAdminClient(bootstrap_servers = ['209.188.7.148:9092'])
-  Admin.delete_topics(["Mehdi"])
+    Admin = KafkaAdminClient(bootstrap_servers = ['209.188.7.148:9092'])
+    Admin.delete_topics(["Mehdi"])
