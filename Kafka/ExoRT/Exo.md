@@ -43,3 +43,13 @@ Les objectifs de l'exercice sont l'experimentation d'un flux de donnees en temps
     }
     res = es.index(index="test", document=doc)
     print(res['result'])
+    
+# Checking Elastic Search
+
+- Installer l'extension ElasticVue sur Chrome ou Firefox
+- Connectez vous en utilisant :
+- username : elastic
+- pwd : g9tufnez6HKsW74KHxksON5d
+- host : https://my-deployment-51a233.es.eastus2.azure.elastic-cloud.com:9243
+- Allez sue indexes pour trouver votre index
+   
