@@ -13,3 +13,5 @@
 - Une fois qu'on recoit un message sur notre TOPIC, on repond au sender
 
 Demande : Resoudre l'exercice en groupe, le resultat est un seul fichier de code qui doit mqrcher sur n'importe quel machine
+
+Link : https://github.com/ElMehdiBen/Py_Course/blob/main/Kafka/ExoRT/Screenshot%202021-10-29%20at%2012.35.11.png
