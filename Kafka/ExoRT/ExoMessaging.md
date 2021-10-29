@@ -28,5 +28,5 @@ Help :
 2. On envoi un message a quelqu'un de random
 3. On commence a listener sur notre TOPIC
 4. Si jamais on recoit un message, on repond au meme sender en ecrivant un message sur input
-5. En Gros, c'est de la communication deux a deux sur des channels prives
+5. En Gros, c'est de la communication un a un sur des channels prives
 6. Tres tres bon courage !!
