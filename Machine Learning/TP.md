@@ -7,9 +7,11 @@
 
 1. Commencez par un CLUSTERING en utilisant l'algorithme K-Means. L'objectif de ce CLUSTERING est d'analyser la data en profondeur afin de trouver ce qui influence le STATUS et le SALARY.
 
-2. Votre analyse CLUSTERING devra vous aider a faire le choix de vos colonnes pour le second objectif qui est de faire la CLASSIFICATION sur la colonne target STATUS. Essayez de comparer vos modeles en termes de "Performance Metrics".
+2. Mettez en place le tableau de CORELATION entre les variables, et comparez les resultats avec ce qui a pu etre vu sur le CLUSTERING.
 
-3. Place a la REGRESSION. Le troisieme objectif est de mettre en place un modele de REGRESSION afin de predire la variable SALARY.
+3. Votre analyse CLUSTERING devra vous aider a faire le choix de vos colonnes pour le second objectif qui est de faire la CLASSIFICATION sur la colonne target STATUS. Essayez de comparer vos modeles en termes de "Performance Metrics".
+
+4. Place a la REGRESSION. Le troisieme objectif est de mettre en place un modele de REGRESSION afin de predire la variable SALARY.
 
 ### Data Access
 
