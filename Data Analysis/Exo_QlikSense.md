@@ -2,7 +2,7 @@
 
 Data : https://www.kaggle.com/chandanmalla/marketinganalyticsdata?select=Psychometric+and+Demographic+Data.csv
 
-This data is Big columns-wise. The objective is simple : it is to identify patterns, trends within the data. Insights we cannot simply analyse.
+This data is Big from the columns side. The objective is simple : it is to identify patterns, trends within the data. Insights we cannot simply analyse.
 
 ### Possible Questions :
     
